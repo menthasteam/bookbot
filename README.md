@@ -1,2 +1,2 @@
 # bookbot
-Building a bookbot at Boot.dev
+This BookBot is going to be fabulous.
